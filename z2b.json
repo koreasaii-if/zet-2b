@@ -86,7 +86,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Bottel1.mp3"
+                 "value":"Bottel3.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
